@@ -208,7 +208,7 @@ def outliers_loop(df_num):
 
 
 import sys
-sys.path.insert(0, 'G:\Mi unidad\DS_CURRICULUM_FT\_functions_') # change the path here
+sys.path.insert(0, '/Users/lizzieriordan/Desktop/health/health_EDA-1/Functions_EDA.py') # change the path here
 
 from Functions_EDA import *
 
@@ -229,3 +229,5 @@ def date_conversion(df, varDate):
     df['weekDay'] = df[varDate].dt.strftime('%A')
     return df
 
+
+# %%
