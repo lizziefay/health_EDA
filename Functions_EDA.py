@@ -196,7 +196,7 @@ def outlier_treatment(df, colname):
     
 def outliers_loop(df_num):
     """
-    jsklfjfl
+    outlier treatment
     
     """
     for item in np.arange(0,len(df_num.columns)):
