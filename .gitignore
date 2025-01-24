@@ -3,9 +3,3 @@ __pycache__/
 
 # Ignore Python bytecode files
 *.pyc
-
-# Ignore large dataset files
-/Users/lizzieriordan/Desktop/health/share-of-adults-defined-as-obese/share-of-adults-defined-as-obese.csv
-/Users/lizzieriordan/Desktop/health/registered-vehicles-per-1000-people/registered-vehicles-per-1000-people.csv
-/Users/lizzieriordan/Desktop/health/dietary-compositions-by-commodity-group (1)/dietary-compositions-by-commodity-group.csv
-/Users/lizzieriordan/Desktop/health/human-development-index.filtered/human-development-index.csv
