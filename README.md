@@ -1,1 +1,2 @@
 # health_EDA
+This is an EDA of datasets on obesity rates, vehicle data, caloric intake, and the human development index of different countries. The goal of this EDA was to identify any patterns or correlations amongst these factors. Specifically, I wanted to see if countries with higher numbers of cars, less balanced diets, or high HDIs influenced the obesity rates. This EDA includes data visualizations. 
